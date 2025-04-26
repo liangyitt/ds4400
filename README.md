@@ -1,5 +1,5 @@
 # ds4400 spr2023
-# Machine learning prediction
+## Machine learning prediction
 
 ### Project Overview
 This project involves analyzing match data from the game **League of Legends** with the goal of predicting match outcomes using machine learning classification methods.
